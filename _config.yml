@@ -2,12 +2,13 @@ name: maxus-ai
 favicon: null
 layout_spectrum: 0.1435075211338699
 typography_spectrum: 0.35018476052209735
+title: Maxus - Artificial Intelligence Reports
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-47564584-3
   facebook: null
   twitter: null
 opengraph:
