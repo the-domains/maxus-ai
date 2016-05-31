@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Maxus - Artificial Intelligence Reports]]></title>
         <description><![CDATA[Maxus - Artificial Intelligence Reports]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxus-ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:36:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 15:58:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxus-ai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beyond Siri: The World Premiere of Viv]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=Rblb3sptgpQ</p>]]></description>
+            <link>https://thegrid.ai/maxus-ai/beyond-siri-the-world-premiere-of-viv/index.html</link>
+            <guid isPermaLink="false">fa74df7d-08fd-4228-8787-d75ce1d545b1</guid>
+            <pubDate>Tue, 31 May 2016 15:58:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post - AI - 2016-05-27]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c3269d0-74f3-45f7-aee0-330bee17fbcc.jpg">]]></description>
-            <link>undefinedtest-post-ai-2016-05-27/index.html</link>
+            <link>https://thegrid.ai/maxus-ai/test-post-ai-2016-05-27/index.html</link>
             <guid isPermaLink="false">a23fafff-cb06-44e1-9cbb-74baafbf6f49</guid>
             <pubDate>Fri, 27 May 2016 16:36:19 GMT</pubDate>
         </item>
