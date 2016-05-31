@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.youtube.com/watch?v=Rblb3sptgpQ'
-datePublished: '2016-05-31T15:58:38.653Z'
-dateModified: '2016-05-31T15:57:20.816Z'
+datePublished: '2016-05-31T16:01:44.547Z'
+dateModified: '2016-05-31T15:59:31.901Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-31-beyond-siri-the-world-premiere-of-viv.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-31-beyond-siri-the-world-premiere-of-viv.md
+starred: true
 url: beyond-siri-the-world-premiere-of-viv/index.html
 _type: Article
 
